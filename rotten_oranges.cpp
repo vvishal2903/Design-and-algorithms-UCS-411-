@@ -2,7 +2,7 @@
 #include <queue>
 
 using namespace std;
- 
+
 int main()
 {
     queue<pair<int, int>> q;
